@@ -10,6 +10,7 @@
 /tsconfig.json
 /build
 /package-lock.json
+/README.md
 
 # testing
 /coverage
