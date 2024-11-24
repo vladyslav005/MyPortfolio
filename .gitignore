@@ -3,6 +3,12 @@
 /node_modules
 /.pnp
 .pnp.js
+/.idea
+/public
+/src
+/package.json
+/tsconfig.json
+/build
 
 # testing
 /coverage
