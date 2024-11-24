@@ -9,7 +9,7 @@
 /package.json
 /tsconfig.json
 /build
-
+/package-lock.json
 
 # testing
 /coverage
